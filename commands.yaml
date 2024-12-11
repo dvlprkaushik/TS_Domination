@@ -1,0 +1,5 @@
+npm i typescript -g
+tsc --version
+tsc init
+tsc filename.ts
+tsc --watch
